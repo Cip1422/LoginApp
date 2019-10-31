@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="screen_fill">0dp</dimen>
+    <dimen name="margin">30dp</dimen>
+    <dimen name="square">250dp</dimen>
+</resources>
